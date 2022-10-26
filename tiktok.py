@@ -2,7 +2,7 @@
 #
 # This file is part of < https://github.com/BukanDev/TikTokDL > project,
 # and is released under the "GNU v3.0 License Agreement".
-# Please see < https://github.com/BukanDev/TikTokDL/blob/main/LICENSE >
+# Please see < https://github.com/kingracing/TikTokDL/blob/main/LICENSE >
 # @pySmartDL
 #
 # All rights reserved.
